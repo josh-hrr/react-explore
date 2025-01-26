@@ -2,8 +2,8 @@
 
 This is an e-commerce project built using react framework
 
-##Functionalities
+## Functionalities
 
 - Usage of useState useEffect useContext
-- Components
+- Components: Card, CheckoutSideMenu, Navbar, Layout, OrderCard, OrdersCard, ProductCard 
 - Search by title or category functionality
